@@ -15,7 +15,8 @@ Madrid, Spain · 15+ years building software, with a background in security
 
 ### 🧑‍💻 About me
 
-- 🏢 **CTO** at [Causfy](https://github.com/CAUSFY-GLOBAL-TECHNOLOGIES) and **Senior Project Development Manager** at [Beltsys Labs](https://github.com/beltsys-labs), where I've led development since 2016
+- 🏢 **CTO** at [Causfy](https://github.com/CAUSFY-GLOBAL-TECHNOLOGIES) and at [Tokelia](https://github.com/tokelia) (since 2024)
+- 🧪 **Senior Project Development Manager** at [Beltsys Labs](https://github.com/beltsys-labs), where I've led development since 2016
 - 🚀 Previously **Co-Founder & CTO of Marketland.io** (Singapore, remote, 2022–2025)
 - ⛓️ I design and build **fintech, payments and blockchain platforms** end to end: architecture, backend, frontend and deployment
 - 🔐 I come from the **security** world (20+ years as a Safety & Security Manager and technical advisor), so I take secure design and compliance seriously
