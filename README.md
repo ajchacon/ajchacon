@@ -47,7 +47,9 @@ Madrid, Spain · 15+ years building software, with a background in security
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ajchacon&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ajchacon&theme=tokyonight&hide_border=true&hide_current_streak=true" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ajchacon&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
