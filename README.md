@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hola%2C+soy+Andr%C3%A9s+Javier+Chac%C3%B3n+%F0%9F%91%8B;CTO+%7C+Full-stack+%26+Blockchain+Developer;Fintech+%C2%B7+Web3+%C2%B7+Seguridad" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Andr%C3%A9s+Javier+Chac%C3%B3n+%F0%9F%91%8B;CTO+%7C+Full-stack+%26+Blockchain+Developer;Fintech+%C2%B7+Web3+%C2%B7+Security" alt="Typing SVG" />
 
 **CTO · Full-stack developer · Blockchain solutions**<br>
-Madrid, España · +15 años desarrollando software, con experiencia previa en seguridad
+Madrid, Spain · 15+ years building software, with a background in security
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andresjchacon)
 [![Web](https://img.shields.io/badge/beltsys.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://beltsys.com)
@@ -13,15 +13,15 @@ Madrid, España · +15 años desarrollando software, con experiencia previa en s
 
 ---
 
-### 🧑‍💻 Sobre mí
+### 🧑‍💻 About me
 
-- 🏢 **CTO** en [Causfy](https://github.com/CAUSFY-GLOBAL-TECHNOLOGIES) y **Senior Project Development Manager** en [Beltsys Labs](https://github.com/beltsys-labs), donde lidero el desarrollo desde 2016
-- 🚀 Antes fui **Co-Founder & CTO de Marketland.io** (Singapur, en remoto, 2022–2025)
-- ⛓️ Diseño y construyo **plataformas fintech, pagos y soluciones blockchain** de punta a punta: arquitectura, backend, frontend y despliegue
-- 🔐 Vengo del mundo de la **seguridad** (más de 20 años como Safety & Security Manager y asesor técnico). Por eso me tomo en serio el diseño seguro y el compliance
-- 🌍 He trabajado en proyectos en España, Estonia, Singapur, Argelia y Colombia
+- 🏢 **CTO** at [Causfy](https://github.com/CAUSFY-GLOBAL-TECHNOLOGIES) and **Senior Project Development Manager** at [Beltsys Labs](https://github.com/beltsys-labs), where I've led development since 2016
+- 🚀 Previously **Co-Founder & CTO of Marketland.io** (Singapore, remote, 2022–2025)
+- ⛓️ I design and build **fintech, payments and blockchain platforms** end to end: architecture, backend, frontend and deployment
+- 🔐 I come from the **security** world (20+ years as a Safety & Security Manager and technical advisor), so I take secure design and compliance seriously
+- 🌍 I've worked on projects in Spain, Estonia, Singapore, Algeria and Colombia
 
-### 🛠️ Stack
+### 🛠️ Tech stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -36,13 +36,13 @@ Madrid, España · +15 años desarrollando software, con experiencia previa en s
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-### 🔭 En qué trabajo ahora
+### 🔭 What I'm working on
 
-- **Causfy**: plataforma de activismo digital con campañas, firmas y financiación
-- **Tokelia**: infraestructura fintech/BaaS y tokenización de activos reales (RWA)
-- **Beltsys Labs**: desarrollo Web3 y SaaS para clientes
+- **[Causfy](https://github.com/ajchacon/causfy)**: digital activism platform for campaigns, signatures and fundraising
+- **[Tokelia](https://github.com/ajchacon/tokelia)**: fintech/BaaS infrastructure and real-world asset (RWA) tokenization
+- **[Beltsys Labs](https://github.com/ajchacon/beltsys-labs)**: Web3 and SaaS development for clients
 
-### 📊 Actividad en GitHub
+### 📊 GitHub activity
 
 <div align="center">
 
@@ -50,6 +50,6 @@ Madrid, España · +15 años desarrollando software, con experiencia previa en s
 
 </div>
 
-### 📫 Contacto
+### 📫 Contact
 
-¿Tienes un proyecto fintech o Web3? Escríbeme por [LinkedIn](https://www.linkedin.com/in/andresjchacon) o en [beltsys.com](https://beltsys.com).
+Have a fintech or Web3 project in mind? Reach out on [LinkedIn](https://www.linkedin.com/in/andresjchacon) or at [beltsys.com](https://beltsys.com).
