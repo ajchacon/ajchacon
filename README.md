@@ -6,8 +6,7 @@
 Madrid, Spain · 15+ years building software, with a background in security
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andresjchacon)
-[![Web](https://img.shields.io/badge/beltsys.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://beltsys.com)
-[![X](https://img.shields.io/badge/@Beltsys__dev-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Beltsys_dev)
+[![Telegram](https://img.shields.io/badge/@AJChacon-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AJChacon)
 
 </div>
 
@@ -53,4 +52,4 @@ Madrid, Spain · 15+ years building software, with a background in security
 
 ### 📫 Contact
 
-Have a fintech or Web3 project in mind? Reach out on [LinkedIn](https://www.linkedin.com/in/andresjchacon) or at [beltsys.com](https://beltsys.com).
+Have a fintech or Web3 project in mind? Reach out on [LinkedIn](https://www.linkedin.com/in/andresjchacon) or [Telegram](https://t.me/AJChacon).
