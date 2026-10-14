@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hola%2C+soy+Andr%C3%A9s+Javier+Chac%C3%B3n+%F0%9F%91%8B;CTO+%7C+Full-stack+%26+Blockchain+Developer;Fintech+%C2%B7+Web3+%C2%B7+Seguridad" alt="Typing SVG" />
 
-**CTO · Full-stack developer · Blockchain solutions**
+**CTO · Full-stack developer · Blockchain solutions**<br>
 Madrid, España · +15 años desarrollando software, con experiencia previa en seguridad
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andresjchacon)
@@ -45,9 +45,6 @@ Madrid, España · +15 años desarrollando software, con experiencia previa en s
 ### 📊 Actividad en GitHub
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ajchacon&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajchacon&layout=compact&theme=tokyonight&hide_border=true" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajchacon&theme=tokyonight&hide_border=true" />
 
