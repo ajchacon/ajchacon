@@ -7,6 +7,7 @@ Madrid, Spain · 15+ years building software, with a background in security
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andresjchacon)
 [![Telegram](https://img.shields.io/badge/@AJChacon-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AJChacon)
+[![X](https://img.shields.io/badge/@andresjchacon-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/andresjchacon)
 
 </div>
 
@@ -52,4 +53,4 @@ Madrid, Spain · 15+ years building software, with a background in security
 
 ### 📫 Contact
 
-Have a fintech or Web3 project in mind? Reach out on [LinkedIn](https://www.linkedin.com/in/andresjchacon) or [Telegram](https://t.me/AJChacon).
+Have a fintech or Web3 project in mind? Reach out on [LinkedIn](https://www.linkedin.com/in/andresjchacon), [Telegram](https://t.me/AJChacon) or [X](https://x.com/andresjchacon).
